@@ -4,5 +4,5 @@
 
 i took Advanced part:
 
-Serve profile page using render_template (might be with parameters on your choice)
+Serve profile page using render_template (might be with parameters on my choice)
 Serve profile page at '/profile' and redirect default route to it
